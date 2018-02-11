@@ -5,6 +5,7 @@ Basic Geomitry primitives
 --Vertex_3D
 --Edge_3D
 --Triangle_3D
+--Hexgon_3D
 
 Advanced Geomitry primitives
 -3D
