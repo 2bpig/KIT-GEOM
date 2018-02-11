@@ -1,1 +1,11 @@
 Architecture
+
+Basic Geomitry primitives
+-3D
+--Vertex_3D
+--Edge_3D
+--Triangle_3D
+
+Advanced Geomitry primitives
+-3D
+--Polyhedra
