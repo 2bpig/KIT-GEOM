@@ -1,7 +1,12 @@
+## build files
 /autom4te.cache/
 /build/
 /build-aux/
+/m4/
 /aclocal.m4
-/config.h.in
 /configure
-/Makefile.in
+*.in
+**/Makefile
+
+## temp files
+*~
