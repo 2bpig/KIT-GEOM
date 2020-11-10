@@ -7,13 +7,16 @@
 /configure
 *.in
 **/Makefile
+
 /.vs/
 /src/CMakeFiles/
 /src/out/
 /src/executable
 /src/cmake_install.cmake
 /src/CMakeCache.txt
+/src/CMake*.bak
 /src/CMakeSettings.json
+/bootstrap
 /configure.ac
 **/Makefile.am
 /.project
