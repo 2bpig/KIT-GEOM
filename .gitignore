@@ -11,7 +11,9 @@
 /src/CMakeFiles/
 /src/out/
 /src/executable
-/src/CMake*.*
+/src/cmake_install.cmake
+/src/CMakeCache.txt
+/src/CMakeSettings.json
 /configure.ac
 **/Makefile.am
 /.project
