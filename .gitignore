@@ -7,6 +7,14 @@
 /configure
 *.in
 **/Makefile
+/.vs/
+/src/CMakeFiles/
+/src/out/
+/src/executable
+/src/CMake*.*
+/configure.ac
+**/Makefile.am
+/.project
 
 ## temp files
 *~
